@@ -1,0 +1,39 @@
+{
+    "name": "ᎡᏆᏃϴᎬᏞ ᎷႮՏᏆᏟ",
+    "logo": " https://telegra.ph/file/5ea320f1095343e27c002.jpg ",
+    "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
+    "keywords": ["music", "voicechat", "telegram"],
+    "repository": "https://github.com/MrRizoel/RiZoeLVcMusic","stack": "container",
+  "env": {
+    "SESSION_NAME": {
+      "description": "Pyrogram session string",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "A bot token from @BotFather",
+      "required": true
+    },
+    "BOT_NAME": {
+      "description": "Your MusicPlayer Bot Name.",
+      "required": true,
+      "value": ""
+    },
+    "API_ID": {
+      "description": "App ID from my.telegram.org/apps",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "App hash from my.telegram.org/apps OR @s4h_api_idbot",
+      "required": true
+    },
+    "SUDO_USERS": {
+      "description": "List of user IDs counted as admin everywhere (separated by space).",
+      "required": true
+    },
+    "DURATION_LIMIT": {
+      "description": "Max audio duration limit for downloads (minutes).",
+      "required": false,
+      "value": "30"
+    }
+  }
+}
