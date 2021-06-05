@@ -54,12 +54,12 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🖤 ᎷᎽ ϴᏔΝᎬᎡ 🖤", url="https://t.me/TheRiZoeL")
-                    ) 
-                ]
-            ]
-        )
-    )
+
+
+
+
+
+
 @Client.on_message(
     filters.command("help")
     & filters.private
