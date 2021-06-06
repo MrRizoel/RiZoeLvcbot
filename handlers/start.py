@@ -26,7 +26,7 @@ from config import BOT_NAME as bn
 
 @Client.on_message(filters.command("start") & filters.private & ~filters.channel)
 async def start(_, message: Message):
-     await message.reply_sticker("CAACAgUAAxkBAAEJz99gmXbBshxhRzwcHLJofnxDepTL4AAClQMAAqLbyFSvfONBbv7Jtx8E")
+     await message.reply_sticker("CAACAgUAAxkBAAEKLOFgtzauneaP6WbcRfJlPMvPz_CCLgAC0AIAAvbj0VQ6KQtObIJRdR8E")
      await message.reply_text(
         f"""➼ Helloow 👋 {message.from_user.first_name}! I can play music in voice chats of Telegeam Groups. I have a lot of cool feature that will amaze you!\n\n➤ Do you want me to play music in your Telegram groups'voice chats? Please click the " cσммαη∂s " button below to know how you can use me.\n\n➤ Use the buttons below to know more about me 🖤\n\n➤ Contact my owner [🖤 ℝ𝕚ℤ𝕠𝕖𝕃 🖤](https://t.me/TheRiZoeL)""",
         reply_markup=InlineKeyboardMarkup(
