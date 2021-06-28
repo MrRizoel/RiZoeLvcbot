@@ -67,3 +67,16 @@
 Use [@Pyrogram_gen_bot](https://t.me/Pyrogram_gen_bot) to get pyrogram string session
 
 
+
+
+
+
+
+   _______        _________
+  |   __   \ __  |______   |
+  |  |__)  ||__|       /   /
+  |      __/ __       /   /
+  |  |\  \  |  |     /   /
+  |  | \  \ |  |     
+  |__|  \__\|__|    
+  
