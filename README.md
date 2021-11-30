@@ -2,7 +2,6 @@
 
 ### A pyrogram based bot that can play music on your telegram group's voice call
 
-# Access to our bot @RiZoeLvcBoT
 
 <p align="center">
   <img src="https://telegra.ph/file/086aef084368ff3bd0800.jpg">
